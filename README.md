@@ -16,5 +16,3 @@ Here are some ideas to get you started:
 -->
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=abizsh)](https://solved.ac/abizsh/)
-
-<img src="http://mazandi.herokuapp.com/api?handle=abizsh&theme=warm"/>
